@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Edgar Laz
 
-<img src="https://raw.githubusercontent.com/edgarguitarist/edgarguitarist/banner.jpg" alt="banner">
+<img src="https://raw.githubusercontent.com/edgarguitarist/edgarguitarist/main/banner.jpg" alt="banner-me">
 
 
 - 👀 I’m interested in games, web design and my personal and professional growth.
