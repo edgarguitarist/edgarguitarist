@@ -1,22 +1,14 @@
-# 👋 Hi, I’m Edgar Laz
-
-<style> 
-
-b{
-
-}
-
-</style>
+# 👋😎 Hi, I’m Edgar Laz aka edgarguitarist or edguitarist
 
 <img src="https://raw.githubusercontent.com/edgarguitarist/edgarguitarist/main/banner.jpg" alt="banner-me">
 
 
-- 👀 I’m interested in games, web design and my personal and professional growth.
-- 🌱 I’m currently learning many programming languages like <b>HTML, CSS, JavaScript, PHP, JAVA, Python </b> and others.
-- 💞️ I’m looking to collaborate on projects that can change the way of the people interacts with the world.
-- 📫 How to reach me: 
-  - Informal contact on <a href="https://www.facebook.com/edgarm.laz">Facebook</a>
-  - Professional contact on <a href="https://www.linkedin.com/in/edgarlteran/">LinkedIn</a>
+- 🤩 <b>I’m interested in</b> Games, Web Design and My Personal and Professional Growth.
+- 🤓 <b>I’m currently Learning and Creating</b> many Projects in different Programming Languages like <b>HTML, CSS, JavaScript, PHP, JAVA, Python </b> and others.
+- 🤪 <b>I’m looking to</b> collaborate on Projects that can change the way of the people interacts with the world.
+- 🤑 <b>How to reach me:<b> 
+  - Informal contact on <a href="https://www.facebook.com/edgarm.laz">Facebook</a>.
+  - Professional contact on <a href="https://www.linkedin.com/in/edgarlteran/">LinkedIn</a>.
 
 
 <!---
