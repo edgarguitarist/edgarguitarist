@@ -1,6 +1,6 @@
 # 👋😎 Hi, I’m Edgar Laz aka edgarguitarist or edguitarist
 
-<img src="https://raw.githubusercontent.com/edgarguitarist/edgarguitarist/main/banner.jpg" alt="banner-me">
+<center><img src="https://raw.githubusercontent.com/edgarguitarist/edgarguitarist/main/banner.jpg" alt="banner-me"></center>
 
 
 - 🤩 <b>I’m interested in</b> Games, Web Design and My Personal and Professional Growth.
