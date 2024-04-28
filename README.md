@@ -10,7 +10,7 @@
   - Informal contact on <a href="https://www.facebook.com/edgarm.laz">Facebook</a>.
   - Professional contact on <a href="https://www.linkedin.com/in/edgarlteran/">LinkedIn</a>.
 
-## Mis estadísticas de Github
+## Github Stats
 ![edgarguitarist stats](https://github-readme-stats.vercel.app/api?username=edgarguitarist&hide=issues&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarguitarist&layout=compact&theme=gotham)
 <!---
 edgarguitarist/edgarguitarist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
